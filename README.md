@@ -1,16 +1,18 @@
-## Hi there 👋
+AI student working on practical Python and data-structure projects.
 
-<!--
-**almeerimran261-collab/almeerimran261-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured project
 
-Here are some ideas to get you started:
+### After Hours · Course Notes Assistant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A study assistant for PDFs and lecture slides, with source citations
+and an interactive space-themed interface.
+
+- Hybrid retrieval using BGE embeddings, BM25, and cross-encoder reranking.
+- Local Ollama support and a public Groq-powered sample demo.
+- Inspectable source passages and basic conversational follow-ups.
+- 20 automated tests with GitHub Actions.
+- A published 40-question synthetic retrieval benchmark with raw results.
+
+[Source code](https://github.com/almeerimran261-collab/after-hours-study-assistant) |
+[Live demo](https://after-hours-study-assistant-nyqpmod7g2yhs6lyqegbkm.streamlit.app/) |
+[v1.0.0 release](https://github.com/almeerimran261-collab/after-hours-study-assistant/releases/tag/v1.0.0)
